@@ -627,7 +627,7 @@ _____ _____ ____  ____    _             ___    ___        __
 |  _| | |___ / __/| |_| | | |_) | |_| |  | | / ___ \ V  V /  
 |_|   |_____|_____|____/  |_.__/ \__, | |___/_/   \_\_/\_/   
                                  |___/                       
-Welcome to use FE2D by IAW[HENU], if you have any question, please ask PhD Zhang Zhiyang and M.A. Chen Juyuan
+Welcome to use FE2D by IAWNIX[HENU], if you have any question, please ask PhD Zhang Zhiyang and M.A. Chen Juyuan
 '''
 
     console.print(Text(helloW, justify = "left", style = "bold green"))

@@ -18,7 +18,7 @@ from matplotlib import pyplot as plt
 import matplotlib.colors as colors
 
 ##########################################################
-## Author: IAW
+## Author: IAWNIX
 ## HENU   
 ## Cal pmf from 2D
 ## versin 3.0.beta   
